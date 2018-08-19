@@ -4,9 +4,11 @@ This repository contains source codes to some small applications created while l
 
 Dependencies
 ---
-SkLearn
-Scipy
-nltk (quite obvious)
+<ul>
+  <li>SkLearn</li>
+  <li>Scipy</li>
+  <li>nltk (quite obvious)</li>
+</ul>
 
 <b>CustomTokenizer.py</b> file contains the code to make a custom tokenizer using PaktSentenceTokenizer which is an unsupervised machine learning model.
 
