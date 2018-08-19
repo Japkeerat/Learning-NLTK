@@ -10,6 +10,9 @@ Dependencies
   <li>nltk (quite obvious)</li>
 </ul>
 
+
+Files Information
+---
 <b>CustomTokenizer.py</b> file contains the code to make a custom tokenizer using PaktSentenceTokenizer which is an unsupervised machine learning model.
 
 <b>PartOfSpeechTagging.py</b> file contains code that is responsible for tagging nouns in the sentences with some predefined classes.
